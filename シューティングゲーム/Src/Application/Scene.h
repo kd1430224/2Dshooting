@@ -63,7 +63,6 @@ private:
 	//ƒXƒRƒA
 	int score;
 
-	int test = 0;
 
 public:
 
